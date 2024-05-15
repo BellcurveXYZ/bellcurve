@@ -21,7 +21,7 @@ const Hero = () => {
           />
         </button>
         <h1 className="px-4 pt-2 text-center text-4xl font-semibold text-white lg:text-5xl xl:text-6xl">
-          The Bellcurve
+          Bellcurve
         </h1>
         <button>
           <img

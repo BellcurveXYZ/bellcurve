@@ -8,7 +8,7 @@ const BuyNow = () => {
         href="https://pump.fun/4TfnNi4TTB6qPpakXM2nrY8gfYDakBhqma9DjW1M8ePN"
         target="_blank"
       >
-        Buy Now on
+        Buy $curve on
         <span className="ml-2 mr-1 inline-flex">
           <img className="h-4" src={pumppill} alt="pumpfun logo" />
         </span>
