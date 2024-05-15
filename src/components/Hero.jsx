@@ -31,12 +31,15 @@ const Hero = () => {
           />
         </button>
       </div>
-      <h2 className="text-center text-2xl text-white/50 lg:text-3xl">
+      <h2 className="pb-3 text-center text-2xl text-white/75 lg:text-3xl">
         The most important meme in human history
       </h2>
-      <a href="#" className="text-md text-center text-white/40 lg:text-xl">
-        Now has a token
-      </a>
+      <p className="  text-center text-base text-white/50 lg:text-xl">
+        Now has a token:
+      </p>
+      <p className="text-center text-xs text-white/50 md:text-base lg:text-xl">
+        5Sk4NTxDYRkeCgRTcHkn894FQe1xKHG58RfA7vq68dqk
+      </p>
     </div>
   )
 }

@@ -19,7 +19,11 @@ const Faq = () => {
             <div className="overflow-hidden">
               <p className="group-open:border-t-1 mx-4 -translate-y-3 border-t border-white py-3 text-left text-zinc-600 transition-all duration-[250ms] ease-in-out">
                 All eyes on{' '}
-                <a className="text-pumpgreen" href="pump.fun">
+                <a
+                  className="text-pumpgreen"
+                  href="https://pump.fun/profile/Bellcurve"
+                  target="_blank"
+                >
                   pump.fun
                 </a>
                 <br />

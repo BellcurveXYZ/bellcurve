@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import pumppill from '../assets/logo.webp'
 
 const Navlist = (props) => {
   const [what, setWhat] = useState(undefined)
@@ -8,10 +7,6 @@ const Navlist = (props) => {
     setWhat(document.getElementById('what'))
     setTop(document.getElementById('root'))
   }, [])
-
-  function scrollToWhat() {
-    console.log('helo')
-  }
   return (
     <ul className="flex w-full items-center justify-between gap-4 text-white">
       <li>
@@ -40,7 +35,7 @@ const Navlist = (props) => {
       <li>
         <a
           target="_blank"
-          href="https://pump.fun/board"
+          href="https://pump.fun/profile/Bellcurve"
           className="text-pumpgreen"
         >
           Buy
