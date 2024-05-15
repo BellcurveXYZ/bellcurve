@@ -31,8 +31,9 @@ const Hero = () => {
           />
         </button>
       </div>
-      <h2 className="pb-3 text-center text-2xl text-white/75 lg:text-3xl">
-        The most important meme format of human psychology
+      <h2 className="pb-3 text-center text-xl text-white/75 lg:text-3xl">
+        Always relevant. Left curve or right curve, but dont find yourself to be
+        a midwit.
       </h2>
       <p className="  text-center text-base text-white/50 lg:text-xl">
         Now has a token:
