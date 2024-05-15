@@ -21,7 +21,7 @@ const Faq = () => {
                 All eyes on{' '}
                 <a
                   className="text-pumpgreen"
-                  href="https://pump.fun/profile/Bellcurve"
+                  href="https://pump.fun/4TfnNi4TTB6qPpakXM2nrY8gfYDakBhqma9DjW1M8ePN"
                   target="_blank"
                 >
                   pump.fun

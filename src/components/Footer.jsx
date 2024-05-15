@@ -1,7 +1,6 @@
 const Footer = () => {
   return (
     <>
-      <div className="flex flex-col"></div>
       <div className="flex flex-col gap-2 border-t-[1px] border-white/20 p-2">
         <p className="text-center text-xs text-white/50">
           DISCLAIMER: The information on this website is for general

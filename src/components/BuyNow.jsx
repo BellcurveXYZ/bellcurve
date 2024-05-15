@@ -5,7 +5,7 @@ const BuyNow = () => {
     <div className="flex flex-col items-center justify-center gap-4">
       <a
         className="text-sha flex items-center rounded-full bg-pumpgreen p-4 font-semibold"
-        href="https://pump.fun/profile/Bellcurve"
+        href="https://pump.fun/4TfnNi4TTB6qPpakXM2nrY8gfYDakBhqma9DjW1M8ePN"
         target="_blank"
       >
         Buy Now on

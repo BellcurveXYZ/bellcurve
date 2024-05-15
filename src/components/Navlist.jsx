@@ -35,7 +35,7 @@ const Navlist = (props) => {
       <li>
         <a
           target="_blank"
-          href="https://pump.fun/profile/Bellcurve"
+          href="https://pump.fun/4TfnNi4TTB6qPpakXM2nrY8gfYDakBhqma9DjW1M8ePN"
           className="text-pumpgreen"
         >
           Buy
