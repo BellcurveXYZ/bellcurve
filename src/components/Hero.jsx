@@ -38,6 +38,9 @@ const Hero = () => {
       <p className="  text-center text-base text-white/50 lg:text-xl">
         First Bellcurve on Dexscreener Moonshot.
       </p>
+      <p className=" text-center text-[8px]">
+        57UQ6ooCFB7YGw2XHLM2C4nFt4zitqygfGazJnMFVf3n
+      </p>
       <p className="text-center text-xs text-white/50 md:text-base lg:text-xl"></p>
     </div>
   )

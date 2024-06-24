@@ -33,7 +33,11 @@ const Navlist = (props) => {
       </li>
       <li className="pointer-events-none	">|</li>
       <li>
-        <a target="_blank" href="" className="text-[#dfff16]">
+        <a
+          target="_blank"
+          href="https://dexscreener.com/solana/8bmn1hpsuyeyvekpmtqrrndz3y9js1glpfzv5qqcuvtv"
+          className="text-[#dfff16]"
+        >
           Buy
         </a>
       </li>

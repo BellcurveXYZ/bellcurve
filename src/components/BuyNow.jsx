@@ -3,7 +3,7 @@ const BuyNow = () => {
     <div className="flex flex-col items-center justify-center gap-4">
       <a
         className="flex items-center rounded-full bg-[#dfff16] p-4 font-semibold text-black"
-        href="#"
+        href="https://dexscreener.com/solana/8bmn1hpsuyeyvekpmtqrrndz3y9js1glpfzv5qqcuvtv"
         target="_blank"
       >
         Buy $IQ on Moonshot{' '}
