@@ -7,7 +7,7 @@ const BuyNow = () => {
         target="_blank"
       >
         Buy $IQ on Moonshot{' '}
-        <span className="ml-2">
+        <span className="ml-2 flex h-4 w-4 items-center">
           <svg
             className="h-4 w-4"
             viewBox="0 0 70 70"
