@@ -33,16 +33,12 @@ const Navlist = (props) => {
       </li>
       <li className="pointer-events-none	">|</li>
       <li>
-        <a
-          target="_blank"
-          href="https://pump.fun/4TfnNi4TTB6qPpakXM2nrY8gfYDakBhqma9DjW1M8ePN"
-          className="text-pumpgreen"
-        >
+        <a target="_blank" href="" className="text-[#dfff16]">
           Buy
         </a>
       </li>
-      <li className="pointer-events-none	">|</li>
-      <li>
+      {/* <li className="pointer-events-none	">|</li> */}
+      {/* <li>
         <a
           href="https://twitter.com/bellcurvexyz"
           target="_blank"
@@ -81,7 +77,7 @@ const Navlist = (props) => {
             />
           </svg>
         </a>
-      </li>
+      </li> */}
     </ul>
   )
 }

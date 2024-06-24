@@ -36,11 +36,9 @@ const Hero = () => {
         a midwit.
       </h2>
       <p className="  text-center text-base text-white/50 lg:text-xl">
-        Now has a token:
+        First Bellcurve on Dexscreener Moonshot.
       </p>
-      <p className="text-center text-xs text-white/50 md:text-base lg:text-xl">
-        5Sk4NTxDYRkeCgRTcHkn894FQe1xKHG58RfA7vq68dqk
-      </p>
+      <p className="text-center text-xs text-white/50 md:text-base lg:text-xl"></p>
     </div>
   )
 }

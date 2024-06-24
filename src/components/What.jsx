@@ -5,7 +5,7 @@ import bellcurvewhat from '../assets/bellcurvewhat.jpg'
 
 const What = () => {
   return (
-    <section id="what" className="flex flex-col items-center px-6 py-16">
+    <section id="what" className="flex flex-col items-center px-6 py-10">
       <h1 className="mb-12 text-4xl">1) What</h1>
       <h2 className="mb-4 text-2xl">...is the Bellcurve Meme?</h2>
       <img
