@@ -6,7 +6,7 @@ const BuyNow = () => {
         href="#"
         target="_blank"
       >
-        Buy $curve on Moonshot{' '}
+        Buy $IQ on Moonshot{' '}
         <span className="ml-2">
           <svg
             className="h-4 w-4"
